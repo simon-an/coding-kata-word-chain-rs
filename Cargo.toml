@@ -8,3 +8,4 @@ authors = ["simon-an <26556185+simon-an@users.noreply.github.com>"]
 
 [dependencies]
 clap = "3.0.0-beta.5"
+newline-converter = "0.2.0"
